@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End App 
 ## User Story
 * AS A manager at an internet retail company
 * I WANT a back end for my e-commerce website that uses the latest technologies
